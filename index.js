@@ -30,8 +30,8 @@ const fareTripler= function (value) {
   };
   
   
-  const selectDifferentDrivers = function (array, whichDrivers) {
-  return whichDrivers(drivers);
+  const selectDifferentDrivers = function (array, returnFirstTwoDrivers) {
+  return returnFirstTwoDrivers(drivers);
 };
 
 
