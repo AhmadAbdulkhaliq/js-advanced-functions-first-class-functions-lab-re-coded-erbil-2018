@@ -17,5 +17,5 @@ selectingDrivers[1]
 const createFareMultiplier = function (mValue) {
   return function (value) {
     return mValue * value;
-  };
-};
+  }
+}
