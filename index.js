@@ -16,7 +16,7 @@ selectingDrivers[1]
 
 
 let createFareMultiplier = function (value1) {
-  return function (value1) {
+  return function () {
     return value1 * value1;
   }
 }
