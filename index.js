@@ -25,7 +25,9 @@ const fareDoubler =(function (value) {
     return value * 2;
   })
   
-
+const fareTripler=(function (value) {
+    return value * 3;
+  })
 
 
 
