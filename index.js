@@ -21,9 +21,9 @@ let createFareMultiplier = function (value1) {
   }
 }
 
-const fareDoubler =(function (2) {
+const fareDoubler =(function (value) {
  
-    return 2;
+    return value* 2;
   })
 
 
