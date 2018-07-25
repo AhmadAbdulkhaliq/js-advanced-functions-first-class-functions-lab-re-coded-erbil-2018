@@ -31,7 +31,7 @@ const fareTripler= function (value) {
   
   
   const selectDifferentDrivers = function (array, returnwichDrivers) {
-  return returnwichDrivers();
+  return returnwichDrivers(array);
 };
 
 
