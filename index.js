@@ -21,5 +21,8 @@ let createFareMultiplier = function (value1) {
   }
 }
 
+const fareDoubler = createFareMultiplier(2);
+
+
 
 
