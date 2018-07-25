@@ -11,7 +11,7 @@ const returnLastTwoDrivers = (function (array) {
   return array.slice(2,4);
 })
 
-const selectingDrivers = [ (returnFirstTwoDrivers),(returnLastTwoDrivers) ];
+let selectingDrivers = [ (returnFirstTwoDrivers),(returnLastTwoDrivers) ];
 selectingDrivers[1]
 
 
