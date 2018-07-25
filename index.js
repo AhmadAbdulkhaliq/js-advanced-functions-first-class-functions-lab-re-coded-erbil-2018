@@ -28,6 +28,8 @@ const fareDoubler =function (value) {
 const fareTripler= function (value) {
     return value * 3;
   }
+  
+  
 
 
 
