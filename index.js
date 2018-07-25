@@ -19,3 +19,5 @@ const createFareMultiplier = function (value1) {
     return value1 * value2;
   }
 }
+
+
