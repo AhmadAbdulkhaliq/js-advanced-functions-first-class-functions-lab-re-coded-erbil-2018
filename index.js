@@ -22,3 +22,4 @@ let createFareMultiplier = function (value1) {
 }
 
 
+
