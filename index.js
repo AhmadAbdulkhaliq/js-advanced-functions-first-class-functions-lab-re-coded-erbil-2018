@@ -24,6 +24,10 @@ let createFareMultiplier = function (value1) {
 const fareDoubler =(function (value) {
     return value * 2;
   })
+  
+const fareDoubler =(function (value) {
+    return value * 2;
+  })
 
 
 
